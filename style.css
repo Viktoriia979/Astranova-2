@@ -1,0 +1,55 @@
+.link-header{
+  text-align:center;
+  color:white;
+  border: solid 3px #8935DE;
+  border-radius:6px;
+  background-color: #8935DE;
+}
+
+header{
+  background-color: #0C1250;
+}
+
+header a{
+  color: white;
+  padding: 10px;
+}
+
+.SmallText{
+  color:white;
+  text-align: center;
+  font-size: 30px;
+}
+
+.Home{
+  background-color:#8935DE;
+  border-radius: 6px;
+  border: solid 3px #8935DE;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+  background-color:rgb(79, 81, 216);
+}
+
+
+
+li a:hover{
+  color: rgb(225, 78, 127);
+}
+
+footer{
+  background-color: #0C1250;
+}
+
+footer a{
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}
+
+footer p{
+  text-align: center;
+}
