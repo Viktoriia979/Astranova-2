@@ -53,3 +53,7 @@ footer a{
 footer p{
   text-align: center;
 }
+
+li a:visited{
+  color:grey;
+}
