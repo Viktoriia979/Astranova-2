@@ -54,6 +54,6 @@ footer p{
   text-align: center;
 }
 
-main a:visited{
+a:visited{
   color:grey;
 }
