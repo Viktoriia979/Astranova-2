@@ -58,4 +58,6 @@ li a:visited{
   color:grey;
 }
 
-
+.title{
+  text-decoration: underline;
+}
